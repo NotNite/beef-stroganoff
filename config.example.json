@@ -1,0 +1,12 @@
+{
+  "token": "no",
+  "guild": "no",
+  "channel": "no",
+  "port": 8080,
+  "sounds": [
+    {
+      "name": "cbar_hit2",
+      "path": "sounds/cbar_hit2.wav"
+    }
+  ]
+}
